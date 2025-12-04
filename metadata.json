@@ -1,0 +1,5 @@
+{
+  "name": "Zootopia Anti-Piracy Patrol",
+  "description": "An 8-bit arcade game where you protect the premiere of Zootopia 2 from screen-recording audience members.",
+  "requestFramePermissions": []
+}
